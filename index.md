@@ -12,7 +12,7 @@ I am currently pursuing my M.S. under the supervision of [Dr. Chester Rebeiro](h
 
 # Education
 
-* B.E (Information Technology) from Dr. AITH, Kanpur in 2016.
+* B.Tech (Computer Science and Engineering) from Dr. AITH, Kanpur in 2016.
 
 # Awards
 
